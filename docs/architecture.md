@@ -1,5 +1,7 @@
 # Architecture Summary
 
+Visual diagram: [architecture-diagram.md](architecture-diagram.md)
+
 ## Frontend
 
 WeHeartComics uses Next.js with the App Router and React for the main web experience.

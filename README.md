@@ -79,6 +79,8 @@ Read the full product case study: [docs/case-study.md](docs/case-study.md)
 
 Read the technical architecture summary: [docs/architecture.md](docs/architecture.md)
 
+View the architecture diagram: [docs/architecture-diagram.md](docs/architecture-diagram.md)
+
 ## Note About Source Code
 
 The production repository contains private configuration, integration details, and operational scripts. This public portfolio repo is a sanitized project summary intended for interviews and technical review. Source code samples can be provided selectively on request.
